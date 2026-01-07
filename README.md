@@ -13,3 +13,4 @@ Data that we communicate between two components.
 
 # JSX
 The syntax of the HTML like code where we can use JS that a component return.
+JSX stands for javascript XML and it is syntax extension for JS that allows HTML like code within a JS file
